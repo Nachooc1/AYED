@@ -28,7 +28,6 @@ int main()
             printf("Ingrese numero a agregar a la lista: ");
             scanf("%i", &num);
             agregarLista(num, list);
-            
             break;
         case 2:
         {
